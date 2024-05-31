@@ -1,5 +1,8 @@
 
-  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
   /* Styling for the service container */
   .service-container {
     display: flex;
