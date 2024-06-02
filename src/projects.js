@@ -2,9 +2,10 @@
 import "./proj.css"
 function Projects(){
     return(
-        <section>
-            <div class="container">
-            <header><h1>Projects</h1></header>
+        <section className="se">
+            <div class="p-container">
+            <header className="h"><h1>Projects</h1></header>
+
             <div class="project-container">
             
             <div class='project'><h2>Employee Management</h2>

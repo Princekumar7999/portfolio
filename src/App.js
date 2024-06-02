@@ -1,5 +1,5 @@
 // import React from 'react';
-
+import NavBar from './NavBar';
 import Services from './services';
 import Whoiam from './whoiam';
 import Education from './education';
@@ -15,6 +15,7 @@ function App() {
     
    
      <div class="container">
+      <NavBar/>
       <Homepage />
       <Whoiam />
       <Education />

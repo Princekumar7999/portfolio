@@ -12,6 +12,9 @@
   .section-right {
     width: 50%; /* Explicitly set width to 60% */
     position: centre;
+    
+    text-align:right;
+    transform: translateY(250px);
     color: white; /* White text color for contrast */
     padding: 100px; /* Padding for the right side */
   }
@@ -23,6 +26,8 @@
     width: 300px; /* Width of the image container */
     height: 300px; /* Height of the image container */
     border-radius: 50%; /* Make the image container round */
-  background-color: white; /* Background color for the image container */
+  background-color: blue; /* Background color for the image container */
     border: 2px solid black; /* Border for the image container */
   }
+
+  
