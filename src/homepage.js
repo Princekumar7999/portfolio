@@ -10,7 +10,7 @@ function Homepage(){
       <p>This is the home page of my portfolio.</p>
     </div>
     <div class="image-container">
-    <img  src=" " alt="Your Image" class="image"></img>
+    
     </div>
   </section>
   
