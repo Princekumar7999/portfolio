@@ -1,4 +1,4 @@
-// import React from 'react';
+
 import NavBar from './NavBar';
 import Services from './services';
 import Whoiam from './whoiam';

@@ -1,4 +1,4 @@
-// import react from 'react'
+
 function Education(){
     return(
         <section>

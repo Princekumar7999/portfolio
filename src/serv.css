@@ -3,7 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-  /* Styling for the service container */
   .serv {
   display: flex;
   justify-content: center;
