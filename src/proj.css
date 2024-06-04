@@ -4,7 +4,7 @@
     /*transition: background-color 0.3s ease; /* Smooth transition for hover effect */
     /*color:white;
     flex-direction: column; */
-/*} */ */
+/*} */ 
 
 /* .project:hover {
     background-color: #ff4d4d; /* Even lighter shade of red on hover */
@@ -12,7 +12,7 @@
 /* .project .img{
     width:250px;
     height:200px;
-} */ */ */ */
+} */ 
 To achieve the desired changes, you can modify the CSS styles as follows:
 cssCopy code 
 .se{
