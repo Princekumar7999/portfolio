@@ -3,7 +3,9 @@
     
 
 .se{
-    width:100%;
+  color:rgb(245, 101, 57);;
+  margin-x:auto;
+    
 }
 .p-container {
   display: flex;
