@@ -1,20 +1,7 @@
 
-    margin-bottom: 20px; /
-    /* color: white; /* White font inside project boxes */
-    /*transition: background-color 0.3s ease; /* Smooth transition for hover effect */
-    /*color:white;
-    flex-direction: column; */
-/*} */ */
-
-/* .project:hover {
-    background-color: #ff4d4d; /* Even lighter shade of red on hover */
-/*}
-/* .project .img{
-    width:250px;
-    height:200px;
-} */ */ */ */
-To achieve the desired changes, you can modify the CSS styles as follows:
-cssCopy code 
+    
+    
+ 
 .se{
     width:100%;
 }
@@ -36,10 +23,7 @@ cssCopy code
     color:white;
 }
 .project-container {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* align-items: center; */
+  
   width: 100%;
   color: rgb(245, 101, 57);
   text-align: center;
@@ -49,7 +33,7 @@ cssCopy code
 .h {
   color: rgb(245, 101, 57);
   margin-bottom: 20px;
-  border-top: 2px solid white; /* Add a white border at the top */
+  border-top: 2px solid white; 
   padding-top: 10px; /* Add some spacing between the border and the header */
 }
 
