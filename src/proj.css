@@ -1,20 +1,4 @@
 
-    margin-bottom: 20px; 
-    /* color: white; /* White font inside project boxes */
-    /*transition: background-color 0.3s ease; /* Smooth transition for hover effect */
-    /*color:white;
-    flex-direction: column; */
-/*} */ 
-
-/* .project:hover {
-    background-color: #ff4d4d; /* Even lighter shade of red on hover */
-/*}
-/* .project .img{
-    width:250px;
-    height:200px;
-} */ 
-To achieve the desired changes, you can modify the CSS styles as follows:
-cssCopy code 
 .se{
     width:100%;
 }
@@ -36,10 +20,7 @@ cssCopy code
     color:white;
 }
 .project-container {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* align-items: center; */
+  
   width: 100%;
   color: rgb(245, 101, 57);
   text-align: center;
@@ -49,8 +30,8 @@ cssCopy code
 .h {
   color: rgb(245, 101, 57);
   margin-bottom: 20px;
-  border-top: 2px solid white; /* Add a white border at the top */
-  padding-top: 10px; /* Add some spacing between the border and the header */
+  border-top: 2px solid white; 
+  padding-top: 10px; 
 }
 
 .project-container {
@@ -59,8 +40,8 @@ cssCopy code
   justify-content: center;
   align-items: center;
   border-bottom: 2px solid white;
-   /* Add a white border at the bottom */
-  padding-bottom: 10px; /* Add some spacing between the border and the project boxes */
+   
+  padding-bottom: 10px; 
 }
 
 .project {
@@ -77,15 +58,15 @@ cssCopy code
   justify-content: center;
   align-items: center;
   color: white;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for transform and box-shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
   flex-direction: column;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Add a subtle box-shadow */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
 }
 
 .project:hover {
   background-color: #ff4d4d;
-  transform: scale(1.25); /* Increase the size of the project box on hover */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Increase the box-shadow on hover */
+  transform: scale(1.25);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
   cursor:pointer;
 
 }
