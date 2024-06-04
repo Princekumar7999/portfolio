@@ -14,7 +14,7 @@ function App() {
   return (
     
    
-     <div className="container">
+     <div className="my-container">
       <NavBar/>
       <Homepage />
       <Whoiam />

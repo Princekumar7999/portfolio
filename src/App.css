@@ -1,3 +1,5 @@
-.container{
+.my-container{
+  border:5px solid blue;
   background:black;
+  width:100%!important;
 }
