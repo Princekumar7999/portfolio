@@ -2,6 +2,7 @@
 import "./proj.css"
 function Projects(){
     return(
+        <body className="shell">
         <section className="se">
             <div className="p-container">
             <header className="h"><h1>Projects</h1></header>
@@ -20,6 +21,7 @@ function Projects(){
             </div>
             </div>
         </section>
+        </body>
     );
 }
 export default Projects;
