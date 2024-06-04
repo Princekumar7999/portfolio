@@ -1,4 +1,7 @@
 
+    margin-bottom: 20px; 
+    
+
 .se{
     width:100%;
 }
@@ -65,7 +68,7 @@
 
 .project:hover {
   background-color: #ff4d4d;
-  transform: scale(1.25);
+  transform: scale(1.25); 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
   cursor:pointer;
 
