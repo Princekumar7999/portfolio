@@ -1,5 +1,6 @@
 
 import "./homep.css"
+import img from './me.png'
 function Homepage(){
   return (
     
@@ -10,7 +11,7 @@ function Homepage(){
       <p>This is the home page of my portfolio.</p>
     </div>
     <div className="image-container">
-    
+    <img className="me" src={img} alt="Description of Image"></img>
     </div>
   </section>
   

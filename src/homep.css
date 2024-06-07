@@ -26,8 +26,15 @@
     width: 350px; 
     height: 300px; 
     border-radius: 50%; 
-  background-color: blue; 
-    border: 2px solid black; 
+  background-color: white; 
+    //border: px solid black; 
+  }
+  .image-container .me{
+   position : absolute;
+    
+    width: 350px; 
+    height: 300px; 
+    border-radius: 50%; 
   }
 
   
