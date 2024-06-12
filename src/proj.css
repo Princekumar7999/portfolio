@@ -35,8 +35,9 @@
 .h {
   color: rgb(245, 101, 57);
   margin-bottom: 20px;
+  
   border-top: 2px solid white; 
-  padding-top: 10px; 
+  padding-top: 30px; 
 }
 
 .project-container {
