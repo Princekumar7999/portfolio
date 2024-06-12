@@ -12,7 +12,16 @@ function Homepage(){
     </div>
     <div className="image-container">
     <img className="me" src={img} alt="Description of Image"></img>
+
     </div>
+    <div className="social-media-icons">
+        <a href="https://www.youtube.com/channel/UC2Gjpewc8-yT2LTv3vG6UWA" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-youtube"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/prince-kumar-39b444279/" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-linkedin"></i>
+        </a>
+      </div>
   </section>
   
     

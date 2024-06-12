@@ -37,4 +37,22 @@
     border-radius: 50%; 
   }
 
+  .social-media-icons {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .social-media-icons a {
+    color: white;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .social-media-icons a:hover {
+    color: #ff6666;
+  }
+
   
