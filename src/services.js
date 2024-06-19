@@ -4,7 +4,7 @@ function Services(){
     return(
         <section className="serv">
   <div className="e-service-container">
-    <header className="h"><h1>Services</h1></header>
+    <header className="h2"><h1>Services</h1></header>
     <div className="service-wrapper">
       <div className="service">content writing</div>
       <div className="service">email marketing</div>
